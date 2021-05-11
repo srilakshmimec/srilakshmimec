@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @srilakshmimec
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning HTML, CSS, JS, MySQL, and Java.
